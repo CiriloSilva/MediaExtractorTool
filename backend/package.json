@@ -1,0 +1,11 @@
+{
+  "name": "media-tools-backend",
+  "type": "module",
+  "scripts": {
+    "dev": "node src/server.js"
+  },
+  "dependencies": {
+    "@fastify/cors": "^8.5.0",
+    "fastify": "^4.27.0"
+  }
+}

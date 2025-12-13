@@ -130,5 +130,5 @@ O uso deve respeitar os termos de serviço das plataformas e a legislação vige
 
 ## 👨‍💻 Autor
 
-Projeto desenvolvido por **Cirilo Dulcésil Silva**  
+Projeto desenvolvido por **Cirilo Silva**  
 GitHub: https://github.com/CiriloSilva

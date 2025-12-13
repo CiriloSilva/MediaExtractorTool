@@ -98,18 +98,36 @@ Verifique o FFmpeg:
 ffmpeg -version
 
 ### Backend
-cd backend
-npm install
-npm run dev
 
-Backend disponível em http://localhost:3333
+1. Entrar na pasta:
+
+        cd backend
+
+2. Instalar dependências:
+
+        npm install
+
+3. Iniciar o servidor:
+
+        npm run dev
+
+Backend disponível em: http://localhost:3333
 
 ### Frontend
-cd frontend
-npm install
-npm run dev
 
-Frontend disponível em http://localhost:5173
+1. Entrar na pasta:
+
+        cd backend
+
+2. Instalar dependências:
+
+        npm install
+
+3. Iniciar o servidor:
+
+        npm run dev
+
+Frontend disponível: em http://localhost:5173
 
 ---
 

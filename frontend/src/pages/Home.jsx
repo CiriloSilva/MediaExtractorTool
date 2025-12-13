@@ -176,7 +176,7 @@ export default function Home() {
         </p>
 
         <a
-          href="https://github.com/SEU_USUARIO/SEU_REPOSITORIO"
+          href="https://github.com/CiriloSilva"
           target="_blank"
           rel="noreferrer"
           style={styles.github}

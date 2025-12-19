@@ -11,7 +11,7 @@ Ferramenta web para extração de mídia, permitindo baixar vídeos em **MP4 (v�
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - Extração de vídeos em MP4 com áudio incluso  
 - Extração de áudio em MP3  

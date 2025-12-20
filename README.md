@@ -21,7 +21,7 @@ Ferramenta web para extração de mídia, permitindo baixar vídeos em **MP4 (v�
 
 ---
 
-## 🧠 Como funciona
+## Como funciona
 
 ### 1. Extração de opções
 

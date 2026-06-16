@@ -54,7 +54,7 @@ O arquivo é enviado diretamente ao navegador.
 
 ---
 
-## 🏗️ Arquitetura do Projeto
+## Arquitetura do Projeto
 
 ### Frontend (React)
 - Interface do usuário
@@ -70,7 +70,7 @@ O arquivo é enviado diretamente ao navegador.
 
 ---
 
-## 🧰 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 ### Frontend
 - React
@@ -86,7 +86,7 @@ O arquivo é enviado diretamente ao navegador.
 
 ---
 
-## ▶️ Como rodar o projeto localmente
+## Como rodar o projeto localmente
 
 ### Pré-requisitos
 - Node.js 18+
@@ -131,7 +131,7 @@ Frontend disponível: em http://localhost:5173
 
 ---
 
-## 📱 Compatibilidade
+## Compatibilidade
 
 - Desktop (Chrome, Firefox, Edge)
 - Mobile (Android / iOS)
@@ -139,14 +139,7 @@ Frontend disponível: em http://localhost:5173
 
 ---
 
-## ⚠️ Aviso legal
+## Aviso legal
 
 Projeto destinado exclusivamente para fins educacionais.  
 O uso deve respeitar os termos de serviço das plataformas e a legislação vigente.
-
----
-
-## 👨‍💻 Autor
-
-Projeto desenvolvido por **Cirilo Silva**  
-GitHub: https://github.com/CiriloSilva
